@@ -1,4 +1,4 @@
--- BY. BRIAN'S LAB --
+```-- BY. BRIAN'S LAB --
 Qualquer divulgação do script sem permissão resultará em DMCA + Ban.
 
 -- COLOQUE ESSE SCRIPT EM SERVER SCRIPT SERVICE --
